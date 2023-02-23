@@ -1,7 +1,7 @@
 # Розроблені сайти
 ## Chargeback
 
-[Chargeback](https://github.com/Ira00/Chargeback)
+[Chargeback](https://ira00.github.io/Chargeback/)
 / [GitHub репозиторій](https://github.com/Ira00/Chargeback)
 
 **Основна ідея проекту** - лендингова сторінка для отримання chargeback. 
